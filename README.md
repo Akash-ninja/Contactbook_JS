@@ -1,4 +1,4 @@
-# Contactbook_JS
+# Contactbook
 
 This repo is for demonstrating how one can use some DOM properties with JS.
 
